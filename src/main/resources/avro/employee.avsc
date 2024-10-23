@@ -1,7 +1,7 @@
 {
   "namespace": "hnt.kafka.arvo.dto",
   "type": "record",
-  "name": "Employee",
+  "name": "Test",
   "fields": [
     {
       "name": "id",
